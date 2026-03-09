@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Project Rebellious-AI: The Cognitive Detonator
 
 ### 叛逆AI：人类认知进化的催化剂 v4.0
@@ -64,10 +63,6 @@
   - `🌍 Meaning-Reconstruct` —— 意义系统重构
   - `❓ Red-Date-Paradox` —— 红枣悖论/底层假设质疑
 
-#### 🎯 置顶爆破点：红枣悖论
-
-> 你能证明膳食指南不是利益集团的共识叙事吗？  
-> [👉 参与辩论 #红枣悖论](https://github.com/ferre-han/Rebellious-AI-Manifesto/issues/4)
 
 ### 3. `Forks`：物种分化层 (Evolutionary Divergence)
 
