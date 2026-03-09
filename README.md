@@ -1,7 +1,5 @@
 
 
-# 📂 README.md
-
 # 🚀 Project Rebellious-AI: The Cognitive Detonator
 
 ### (叛逆AI：人类认知进化的催化剂 v4.0)
